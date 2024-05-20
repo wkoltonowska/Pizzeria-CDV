@@ -37,11 +37,11 @@
 
 <img src="img/kobby-mendez-xBFTjrMIC0c-unsplash.jpg" width = 500>
 
-| Lp. | Nazwa             | Składniki                                     |
-|-----|-------------------|-----------------------------------------------|
-| 1.  | Eliksir Entów     | świeży sok z pomarańczy, imbir, mięta         |
-| 2.  | Napój Gondoru     | lemoniada cytrynowa, syrop z bzu, limonka     |
-| 3.  | Deser Krasnoludów | czekolada gorzka, orzechy włoskie, miód       |
-| 4.  | Deser Fangorn     | pistacje, daktyle, kokos                      |
-| 5.  | Deser Númenor     | krem waniliowy, truskawki, bita śmietana      |
+| Lp. | Nazwa             | Składniki                                     | Cena  |
+|-----|-------------------|-----------------------------------------------|-------|
+| 1.  | Eliksir Entów     | świeży sok z pomarańczy, imbir, mięta         | 17 zł |
+| 2.  | Napój Gondoru     | lemoniada cytrynowa, syrop z bzu, limonka     | 13 zł |
+| 3.  | Deser Krasnoludów | czekolada gorzka, orzechy włoskie, miód       | 19 zł |
+| 4.  | Deser Fangorn     | pistacje, daktyle, kokos                      | 18 zł |
+| 5.  | Deser Númenor     | krem waniliowy, truskawki, bita śmietana      | 20 zł |
 
