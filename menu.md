@@ -20,6 +20,8 @@
 
 ## Desery 
 
+
+
 | Lp. | Nazwa             | Składniki                                     |
 |-----|-------------------|-----------------------------------------------|
 | 1.  | Deser Elfów       | czekolada biała, jagody, mięta                |
@@ -31,6 +33,8 @@
 
 
 ## Napoje
+
+<img src="img/kobby-mendez-xBFTjrMIC0c-unsplash.jpg" width = 500>
 
 | Lp. | Nazwa             | Składniki                                     |
 |-----|-------------------|-----------------------------------------------|
