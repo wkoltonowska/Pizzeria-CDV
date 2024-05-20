@@ -12,7 +12,7 @@
 9. Pizza Minas Tirith - Składniki: mozzarella di bufala, pomidory cherry, bazylia - 37 zł
 10. Pizza Helmowy Jar - Składniki: kiełbasa chorizo, papryka zielona, cebula czerwona - 37 zł
 11. Pizza Gollum - Składniki: sardynki, kapary, oliwki czarne - 32 zł
-12. Pizza Entów - Składniki: karczochy, oliwki zielone, papryka żółta 32 zł
+12. Pizza Entów - Składniki: karczochy, oliwki zielone, papryka żółta - 32 zł
 
 ## Desery 
 
