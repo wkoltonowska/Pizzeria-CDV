@@ -32,8 +32,11 @@
 
 ## Napoje
 
-1. Eliksir Entów - Składniki: świeży sok z pomarańczy, imbir, mięta
-2. Napój Gondoru - Składniki: lemoniada cytrynowa, syrop z bzu, limonka
-3. Deser Krasnoludów - Składniki: czekolada gorzka, orzechy włoskie, miód
-4. Deser Fangorn - Składniki: pistacje, daktyle, kokos
-5. Deser Númenor - Składniki: krem waniliowy, truskawki, bita śmietana
+| Lp. | Nazwa             | Składniki                                     |
+|-----|-------------------|-----------------------------------------------|
+| 1.  | Eliksir Entów     | świeży sok z pomarańczy, imbir, mięta         |
+| 2.  | Napój Gondoru     | lemoniada cytrynowa, syrop z bzu, limonka     |
+| 3.  | Deser Krasnoludów | czekolada gorzka, orzechy włoskie, miód       |
+| 4.  | Deser Fangorn     | pistacje, daktyle, kokos                      |
+| 5.  | Deser Númenor     | krem waniliowy, truskawki, bita śmietana      |
+
