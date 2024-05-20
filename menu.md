@@ -26,9 +26,9 @@
 |-----|-------------------|-----------------------------------------------|-------|
 | 1.  | Deser Elfów       | czekolada biała, jagody, mięta                | 15 zł |
 | 2.  | Deser Hobbitów    | karmel, jabłka, cynamon                       | 14 zł |
-| 3.  | Nectar Lothlórien | sok z białych winogron, cytryna, melisa       | 12 zł |
-| 4.  | Napój Bree        | piwo imbirowe, miód, gałązka rozmarynu        | 18 zł |
-| 5.  | Eliksir Mithril   | tonik, sok z grejpfruta, plasterki ogórka     | 16 zł |
+| 3.  | Deser Krasnoludów | czekolada gorzka, orzechy włoskie, miód       | 19 zł |
+| 4.  | Deser Fangorn     | pistacje, daktyle, kokos                      | 18 zł |
+| 5.  | Deser Númenor     | krem waniliowy, truskawki, bita śmietana      | 20 zł |
 
 
 
@@ -41,7 +41,8 @@
 |-----|-------------------|-----------------------------------------------|-------|
 | 1.  | Eliksir Entów     | świeży sok z pomarańczy, imbir, mięta         | 17 zł |
 | 2.  | Napój Gondoru     | lemoniada cytrynowa, syrop z bzu, limonka     | 13 zł |
-| 3.  | Deser Krasnoludów | czekolada gorzka, orzechy włoskie, miód       | 19 zł |
-| 4.  | Deser Fangorn     | pistacje, daktyle, kokos                      | 18 zł |
-| 5.  | Deser Númenor     | krem waniliowy, truskawki, bita śmietana      | 20 zł |
+| 3.  | Nectar Lothlórien | sok z białych winogron, cytryna, melisa       | 12 zł |
+| 4.  | Napój Bree        | piwo imbirowe, miód, gałązka rozmarynu        | 18 zł |
+| 5.  | Eliksir Mithril   | tonik, sok z grejpfruta, plasterki ogórka     | 16 zł |
+
 
