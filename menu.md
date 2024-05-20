@@ -22,13 +22,14 @@
 
 <img src="img/natalia-y-o9kswzHrvMs-unsplash.jpg" width = 500>
 
-| Lp. | Nazwa             | Składniki                                     |
-|-----|-------------------|-----------------------------------------------|
-| 1.  | Deser Elfów       | czekolada biała, jagody, mięta                |
-| 2.  | Deser Hobbitów    | karmel, jabłka, cynamon                       |
-| 3.  | Nectar Lothlórien | sok z białych winogron, cytryna, melisa       |
-| 4.  | Napój Bree        | piwo imbirowe, miód, gałązka rozmarynu        |
-| 5.  | Eliksir Mithril   | tonik, sok z grejpfruta, plasterki ogórka     |
+| Lp. | Nazwa             | Składniki                                     | Cena  |
+|-----|-------------------|-----------------------------------------------|-------|
+| 1.  | Deser Elfów       | czekolada biała, jagody, mięta                | 15 zł |
+| 2.  | Deser Hobbitów    | karmel, jabłka, cynamon                       | 14 zł |
+| 3.  | Nectar Lothlórien | sok z białych winogron, cytryna, melisa       | 12 zł |
+| 4.  | Napój Bree        | piwo imbirowe, miód, gałązka rozmarynu        | 18 zł |
+| 5.  | Eliksir Mithril   | tonik, sok z grejpfruta, plasterki ogórka     | 16 zł |
+
 
 
 
