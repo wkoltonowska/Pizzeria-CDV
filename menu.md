@@ -1,6 +1,8 @@
 # Menu
 ## Pizze
 
+<img src="img/nik-owens-40OJLYVWeeM-unsplash.jpg" width = 500>
+
 1. Pizza Gondor - Składniki: mozzarella, szynka, pieczarki - 30 zł
 2. Pizza Rohan - Składniki: kurczak, kukurydza, czerwona cebula - 32 zł
 3. Pizza Rivendell - Składniki: feta, szpinak, suszone pomidory - 35 zł
