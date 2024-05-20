@@ -20,7 +20,7 @@
 
 ## Desery 
 
-
+<img src="img/natalia-y-o9kswzHrvMs-unsplash.jpg" width = 500>
 
 | Lp. | Nazwa             | Składniki                                     |
 |-----|-------------------|-----------------------------------------------|
