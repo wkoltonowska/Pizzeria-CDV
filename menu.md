@@ -20,11 +20,14 @@
 
 ## Desery 
 
-1. Deser Elfów - Składniki: czekolada biała, jagody, mięta
-2. Deser Hobbitów - Składniki: karmel, jabłka, cynamon
-3. Nectar Lothlórien - Składniki: sok z białych winogron, cytryna, melisa
-4. Napój Bree - Składniki: piwo imbirowe, miód, gałązka rozmarynu
-5. Eliksir Mithril - Składniki: tonik, sok z grejpfruta, plasterki ogórka
+| Lp. | Nazwa             | Składniki                                     |
+|-----|-------------------|-----------------------------------------------|
+| 1.  | Deser Elfów       | czekolada biała, jagody, mięta                |
+| 2.  | Deser Hobbitów    | karmel, jabłka, cynamon                       |
+| 3.  | Nectar Lothlórien | sok z białych winogron, cytryna, melisa       |
+| 4.  | Napój Bree        | piwo imbirowe, miód, gałązka rozmarynu        |
+| 5.  | Eliksir Mithril   | tonik, sok z grejpfruta, plasterki ogórka     |
+
 
 
 ## Napoje
