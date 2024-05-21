@@ -10,3 +10,7 @@ Każdego dnia, od godziny 15:00 do 18:00, serwujemy wyjątkowe Happy Hours w nas
 
 ## Oferta Lunchowa
 Szukasz smacznego i szybkiego lunchu? Skorzystaj z naszej oferty lunchowej! W godzinach od 11:00 do 15:00 oferujemy zestawy lunchowe, które zawierają wybraną pizzę lub danie główne, dodatek oraz napój w atrakcyjnej cenie.
+
+
+## Konkurs Kulinarny "Mistrz Pierścieni"
+Jesteś mistrzem kulinarnego świata? Dołącz do naszego konkursu kulinarnego inspirowanego "Władcą Pierścieni"! Przedstaw swoją własną kompozycję pizzy lub napoju, zainspirowaną postaciami lub miejscami z sagi Tolkiena, a możesz wygrać fantastyczne nagrody i uznanie wśród fanów kuchni i literatury fantasy.
