@@ -2,3 +2,7 @@
 
 ## Dzień Pizzy
 Codziennie od poniedziałku do piątku zapraszamy na Dzień Pizzy w Pizzerii "Śródziemie"! Wybierz dowolną pizzę z naszego menu i otrzymaj drugą o połowę taniej. To doskonała okazja, aby spróbować nowych smaków i cieszyć się wyjątkowymi kompozycjami inspirowanymi światem "Władcy Pierścieni".
+
+
+## Happy Hours
+Każdego dnia, od godziny 15:00 do 18:00, serwujemy wyjątkowe Happy Hours w naszej pizzerii. Zamów dowolny napój z naszego menu napojów, a drugi otrzymasz gratis! To doskonały sposób na orzeźwienie się po dniu pełnym przygód i pracy.
