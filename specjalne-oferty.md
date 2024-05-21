@@ -14,3 +14,7 @@ Szukasz smacznego i szybkiego lunchu? Skorzystaj z naszej oferty lunchowej! W go
 
 ## Konkurs Kulinarny "Mistrz Pierścieni"
 Jesteś mistrzem kulinarnego świata? Dołącz do naszego konkursu kulinarnego inspirowanego "Władcą Pierścieni"! Przedstaw swoją własną kompozycję pizzy lub napoju, zainspirowaną postaciami lub miejscami z sagi Tolkiena, a możesz wygrać fantastyczne nagrody i uznanie wśród fanów kuchni i literatury fantasy.
+
+
+## Wieczór Tematyczny "Śródziemie na Talerzu"
+Raz w miesiącu zapraszamy na nasz wieczór tematyczny, gdzie Śródziemie staje się żywym obrazem na talerzu! Przyjdź ubrany jako ulubiony bohater z "Władcy Pierścieni" i spróbuj specjalnych dań inspirowanych opowieściami Tolkiena. To niepowtarzalna okazja do spotkania się z innymi fanami i delektowania się wyjątkowymi smakami kuchni fantasy.
