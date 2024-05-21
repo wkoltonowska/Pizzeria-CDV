@@ -11,12 +11,6 @@
 | 4.  | Pizza Shire      | boczek, ziemniaki, cebula                    | 35 zł |
 | 5.  | Pizza Mordor     | pikantne salami, jalapeños, czerwona papryka | 40 zł |
 | 6.  | Pizza Isengard   | kiełbasa, pieprz czarny, kapary              | 35 zł |
-| 7.  | Pizza Lothlórien | ricotta, brokuły, czosnek                    | 32 zł |
-| 8.  | Pizza Moria      | wołowina, pieczarki portobello, cebula karmelizowana | 40 zł |
-| 9.  | Pizza Minas Tirith | mozzarella di bufala, pomidory cherry, bazylia | 37 zł |
-| 10. | Pizza Helmowy Jar | kiełbasa chorizo, papryka zielona, cebula czerwona | 37 zł |
-| 11. | Pizza Gollum     | sardynki, kapary, oliwki czarne              | 32 zł |
-| 12. | Pizza Entów      | karczochy, oliwki zielone, papryka żółta     | 32 zł |
 
 ## Desery 
 
