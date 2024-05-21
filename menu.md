@@ -14,6 +14,10 @@
 
 ## Pizze - UNIQUE TASTE
 
+<img src="img/shourav-sheikh-Q9VEWorDhaY-unsplash.jpg" width = 500>
+
+| Lp. | Pizza            | Składniki                                   | Cena  |
+|-----|------------------|---------------------------------------------|-------|
 | 1.  | Pizza Lothlórien | ricotta, brokuły, czosnek                    | 32 zł |
 | 2.  | Pizza Moria      | wołowina, pieczarki portobello, cebula karmelizowana | 40 zł |
 | 3.  | Pizza Minas Tirith | mozzarella di bufala, pomidory cherry, bazylia | 37 zł |
