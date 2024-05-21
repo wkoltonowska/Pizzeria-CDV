@@ -12,6 +12,19 @@
 | 5.  | Pizza Mordor     | pikantne salami, jalapeños, czerwona papryka | 40 zł |
 | 6.  | Pizza Isengard   | kiełbasa, pieprz czarny, kapary              | 35 zł |
 
+## Pizze - UNIQUE TASTE
+
+<img src="img/shourav-sheikh-Q9VEWorDhaY-unsplash.jpg" width = 500>
+
+| Lp. | Pizza            | Składniki                                   | Cena  |
+|-----|------------------|---------------------------------------------|-------|
+| 1.  | Pizza Lothlórien | ricotta, brokuły, czosnek                    | 32 zł |
+| 2.  | Pizza Moria      | wołowina, pieczarki portobello, cebula karmelizowana | 40 zł |
+| 3.  | Pizza Minas Tirith | mozzarella di bufala, pomidory cherry, bazylia | 37 zł |
+| 4. | Pizza Helmowy Jar | kiełbasa chorizo, papryka zielona, cebula czerwona | 37 zł |
+| 5. | Pizza Gollum     | sardynki, kapary, oliwki czarne              | 32 zł |
+| 6. | Pizza Entów      | karczochy, oliwki zielone, papryka żółta     | 32 zł |
+
 ## Desery 
 
 <img src="img/natalia-y-o9kswzHrvMs-unsplash.jpg" width = 500>
