@@ -5,3 +5,5 @@ Witaj w Pizzerii "Śródziemie"! Nasza pizzeria to niezwykłe miejsce, gdzie sma
 Nasze pizze są starannie przygotowywane przez doświadczonych kucharzy, używając tylko najświeższych składników i unikalnych receptur. W naszej pizzerii znajdziesz nie tylko wyjątkowe smaki, ale także przyjazną atmosferę, która sprawia, że każda wizyta jest wyjątkowym doświadczeniem.
 
 Dołącz do naszej społeczności miłośników dobrego jedzenia i fantastycznych światów literackich. Zapraszamy do odkrywania magicznych smaków w Pizzerii "Śródziemie"!
+
+<img src="img/andres-iga-7XKkJVw1d8c-unsplash.jpg" width = 1000>
