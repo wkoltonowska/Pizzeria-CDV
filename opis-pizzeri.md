@@ -10,3 +10,6 @@ Dołącz do naszej społeczności miłośników dobrego jedzenia i fantastycznyc
 
 # Historia
 Pizzeria "Śródziemie" powstała z miłości do dobrej kuchni i fascynacji literaturą fantasy. Nasz zespół składa się z doświadczonych kucharzy, pasjonatów kulinarnych oraz zapalonych fanów "Władcy Pierścieni". To połączenie pasji do gotowania i wspólnego odkrywania magicznych światów Tolkiena sprawia, że nasza pizzeria to miejsce pełne magii i smaku.
+
+# Nasza Oferta
+W naszej pizzerii znajdziesz wyjątkowe kompozycje smaków, inspirowane postaciami, miejscami i wydarzeniami z "Władcy Pierścieni". Każda pizza jest starannie przygotowywana przez naszych kucharzy, którzy wkładają w nie całe serce, aby zapewnić Ci niezapomniane doświadczenie kulinarne.
