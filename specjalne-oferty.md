@@ -6,3 +6,7 @@ Codziennie od poniedziałku do piątku zapraszamy na Dzień Pizzy w Pizzerii "Ś
 
 ## Happy Hours
 Każdego dnia, od godziny 15:00 do 18:00, serwujemy wyjątkowe Happy Hours w naszej pizzerii. Zamów dowolny napój z naszego menu napojów, a drugi otrzymasz gratis! To doskonały sposób na orzeźwienie się po dniu pełnym przygód i pracy.
+
+
+## Oferta Lunchowa
+Szukasz smacznego i szybkiego lunchu? Skorzystaj z naszej oferty lunchowej! W godzinach od 11:00 do 15:00 oferujemy zestawy lunchowe, które zawierają wybraną pizzę lub danie główne, dodatek oraz napój w atrakcyjnej cenie.
